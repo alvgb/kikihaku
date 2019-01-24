@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: block;
+    background: #ef32d9; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ef32d9, #89fffd); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ef32d9, #89fffd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1 {
+    font-size: 145px;
+    color: #B993D6;  /* fallback for old browsers */
+    color: -webkit-linear-gradient(to right, #8CA6DB, #B993D6);  /* Chrome 10-25, Safari 5.1-6 */
+    color: linear-gradient(to right, #8CA6DB, #B993D6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    background-color: red;
+    height: 50vh;
+                    display: block;
+    margin: 0;
+    padding-top: 55px;
+    box-sizing: border-box;
+    background: #B3FFAB;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #12FFF7, #B3FFAB);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #12FFF7, #B3FFAB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.pikachu {
+    text-align: center;
+    display: block;
+    padding-top: 50px;
+}
