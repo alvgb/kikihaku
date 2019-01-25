@@ -17,7 +17,7 @@ h1 {
     height: 50vh;
                     display: block;
     margin: 0;
-    padding-top: 25%;
+    padding-top: 55px;
     box-sizing: border-box;
     background: #B3FFAB;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #12FFF7, #B3FFAB);  /* Chrome 10-25, Safari 5.1-6 */
@@ -27,5 +27,5 @@ h1 {
 .pikachu {
     text-align: center;
     display: block;
-    padding-top: 50px;
+    padding-top: 12%;
 }
